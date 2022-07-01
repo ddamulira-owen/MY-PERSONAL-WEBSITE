@@ -1,0 +1,47 @@
+body{
+  background-color:white;
+  margin:0;
+  position: absolute;
+  text-align: center;
+}
+.bio{
+  background-color:red;
+  width:500px;
+  height:500px;
+    position: absolute;
+  }
+.photos{
+  background-color:yellow;
+  width:500px;
+  height:500px;
+  position: absolute;
+  left:1000px;
+}
+.education{
+  background-color:purple;
+  width:500px;
+  height:500px;
+  position: absolute;
+  left:500px;
+  top:500px;
+}
+.hobbies{
+width:500px;
+  height:500px;
+  background-color: blue;
+    position: absolute;
+    top:1000px;
+}
+.contact{
+  color:red;
+  width:500px;
+  height:500px;
+  background-color: green;
+    position: absolute;
+    top:1000px;
+    left:1000px;
+}
+h1{
+color:white;
+padding: 5em;
+}
