@@ -4,18 +4,27 @@ body{
   position: absolute;
   text-align: center;
 }
+.bio:hover{
+  background-color:plum;
+}
 .bio{
   background-color:red;
   width:500px;
   height:500px;
     position: absolute;
   }
+.photos:hover{
+  background-color:plum;
+}
 .photos{
   background-color:yellow;
   width:500px;
   height:500px;
   position: absolute;
   left:1000px;
+}
+.education:hover{
+  background-color:plum;
 }
 .education{
   background-color:purple;
@@ -25,12 +34,18 @@ body{
   left:500px;
   top:500px;
 }
+.hobbies:hover{
+  background-color:plum;
+}
 .hobbies{
 width:500px;
   height:500px;
   background-color: blue;
     position: absolute;
     top:1000px;
+}
+.contact:hover{
+  background-color:plum;
 }
 .contact{
   color:red;
